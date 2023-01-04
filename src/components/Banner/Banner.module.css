@@ -1,0 +1,346 @@
+.designYourBusinessInYourS {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 800;
+  display: inline-block;
+  width: 897px;
+}
+.superEasyTo {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.yourAreOnline {
+  margin: 0;
+}
+.superEasyToUseReadyToGo {
+  position: relative;
+  font-size: var(--sub31-size);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 897px;
+}
+.designYourBusinessInYourSParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.explore {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.frameParent,
+.primaryButton1 {
+  display: flex;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.primaryButton1:hover{
+  background-color: #d815e9;
+}
+.primaryButton1 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-700);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  font-size: var(--p21-size);
+  color: var(--color-white);
+}
+.frameParent {
+  position: absolute;
+  top: 21px;
+  left: 271px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-sm);
+}
+.bannerChild,
+.bannerItem {
+  position: absolute;
+  top: 1396px;
+  left: -14px;
+  width: 1440px;
+  height: 879px;
+  overflow: hidden;
+}
+.bannerItem {
+  top: 1643px;
+  left: 597px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 1029px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indigo-100);
+  width: 832.57px;
+  height: 96.83px;
+}
+.groupChild,
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  transform: rotate(17.93deg);
+  transform-origin: 0 0;
+}
+.groupItem {
+  top: -91.2px;
+  left: 133.38px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indigo-100);
+  width: 832.57px;
+  height: 60.29px;
+}
+.rectangleParent {
+  top: 177.08px;
+  left: 0;
+  width: 927.27px;
+  height: 188.19px;
+}
+.groupInner {
+  top: 65.87px;
+  left: -36.92px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indigo-100);
+  width: 828.34px;
+  height: 101.17px;
+  transform: rotate(21.66deg);
+}
+.groupInner,
+.rectangleDiv,
+.rectangleGroup {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.rectangleDiv {
+  top: 222.65px;
+  left: -2.47px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indigo-100);
+  width: 828.34px;
+  height: 62.99px;
+  transform: rotate(21.66deg);
+}
+.rectangleGroup {
+  top: 342.14px;
+  left: 603.4px;
+  width: 937.81px;
+  height: 262.61px;
+  transform: rotate(26.86deg);
+}
+.frameChild {
+  position: absolute;
+  top: 34.96px;
+  left: 63.65px;
+  background-color: var(--color-black);
+  width: 164.05px;
+  height: 27.79px;
+}
+.welcomeToWezbo {
+  position: absolute;
+  top: 38.55px;
+  left: 69.92px;
+  letter-spacing: 0.03em;
+  line-height: 17.93px;
+  display: inline-block;
+  width: 152.4px;
+  height: 19.72px;
+}
+.frameWrapper {
+  width: 291.35px;
+  height: 167.64px;
+}
+.frameWrapper,
+.mouse1Icon {
+  position: absolute;
+}
+.rectangleContainer {
+  position: absolute;
+  width: 291.35px;
+  height: 167.64px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  background-image: url(../../../public/frame-43@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frameWrapper {
+  top: 100.4px;
+  left: 103.09px;
+}
+.mouse1Icon {
+  top: 138px;
+  left: 886px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.frameItem {
+  position: absolute;
+  top: 49.99px;
+  left: -0.5px;
+  background-color: var(--color-gray-300);
+  width: 71px;
+  height: 708px;
+  overflow: hidden;
+}
+.iconCart,
+.iconHeart {
+  position: relative;
+  flex-shrink: 0;
+}
+.iconHome {
+  width: 24.72px;
+  height: 26px;
+}
+.iconHome,
+.iconUser {
+  position: relative;
+  flex-shrink: 0;
+}
+.iconHeart {
+  width: 27.16px;
+  height: 24.2px;
+}
+.iconUser {
+  width: 23.23px;
+  height: 30.22px;
+}
+.iconCart {
+  width: 25.08px;
+  height: 25.1px;
+}
+.iconHomeParent {
+  position: absolute;
+  top: 85.16px;
+  left: 22.41px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.frameInner {
+  position: absolute;
+  top: 223.99px;
+  left: 514.5px;
+  width: 490px;
+  height: 534px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.wezboin {
+  position: absolute;
+  top: 34.96px;
+  left: 51.72px;
+  letter-spacing: 0.03em;
+  line-height: 44.82px;
+  font-weight: 500;
+  display: inline-block;
+}
+.lineDiv {
+  position: absolute;
+  top: 19.27px;
+  left: 43.03px;
+  border-right: 4.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 4.48px;
+  height: 77.1px;
+}
+.frameIcon,
+.wezboinParent {
+  position: absolute;
+  overflow: hidden;
+}
+.wezboinParent {
+  top: 85.16px;
+  left: 515.46px;
+  border: 0.9px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 287.76px;
+  height: 108.47px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--h41);
+}
+.frameIcon {
+  top: 376.99px;
+  left: 103.5px;
+  width: 390px;
+  height: 381px;
+  object-fit: cover;
+}
+.groupContainer {
+  background: linear-gradient(
+    90.06deg,
+    rgba(255, 56, 56, 0.4),
+    #510d57 23.45%,
+    #ca234b
+  );
+  height: 757.98px;
+  overflow: hidden;
+}
+.frameGroup,
+.groupChild1,
+.groupContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1004.56px;
+}
+.heroPicvid {
+  position: absolute;
+  width: 1004.56px;
+}
+.groupChild1 {
+  height: 59.02px;
+  overflow: hidden;
+}
+.frameGroup,
+.heroPicvid {
+  height: 757.98px;
+}
+.heroPicvid {
+  top: 86.01px;
+  left: 178.5px;
+}
+.banner,
+.bannerInner,
+.groupParent {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.bannerInner,
+.groupParent {
+  height: 995px;
+}
+.groupParent {
+  top: 0;
+}
+.bannerInner {
+  top: 311px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.banner {
+  top: 107px;
+  background-color: var(--color-white);
+  height: 1306px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--h1ex1-size);
+  color: var(--color-black);
+  font-family: var(--h41);
+}

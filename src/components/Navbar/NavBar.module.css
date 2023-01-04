@@ -1,0 +1,114 @@
+.frameChild {
+  position: relative;
+  width: 210px;
+  height: 83.49px;
+  flex-shrink: 0;
+}
+.home {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  cursor: pointer;
+}
+.home:hover{
+  color: cyan;
+}
+.iconsaxlineararrowup2 {
+  position: relative;
+  width: 11.39px;
+  height: 10.92px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.homeParent,
+.instanceParent,
+.topFruitsParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+ 
+}
+
+.topFruitsParent {
+  align-items: center;
+  gap: var(--gap-9xs);
+}
+.homeParent {
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.instanceParent {
+  align-items: center;
+  gap: var(--gap-8xl);
+}
+.in {
+  color: var(--color-brown);
+}
+.explore {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.primaryButton1,
+.primaryButton2 {
+  border-radius: var(--br-xl);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.primaryButton2:hover{
+  background-color: #d115e2;
+}
+
+.primaryButton1 {
+  background-color: var(--color-gray-700);
+  overflow: hidden;
+}
+.primaryButton1:hover{
+   background-color: #d115e2;
+}
+.primaryButton2 {
+  border: 1px solid var(--color-gray-700);
+}
+.primaryButton1Parent {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.menu,
+.navBar,
+.primaryButton1Parent {
+  display: flex;
+  flex-direction: row;
+}
+.menu {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+}
+.navBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    90.06deg,
+    rgba(255, 56, 56, 0.4),
+    #510d57 23.45%,
+    #ca234b
+  );
+  width: 100%;
+  overflow: hidden;
+  padding: var(--padding-xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: center;
+  font-size: var(--p21-size);
+  color: var(--color-white);
+  font-family: var(--h41);
+}

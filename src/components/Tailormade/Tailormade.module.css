@@ -1,0 +1,108 @@
+.tailormadeSolution1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.offerAGreatSelectionOfPro,
+.tailormadeSolution {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 669px;
+}
+.tailormadeSolution {
+  height: 46px;
+  flex-shrink: 0;
+}
+.offerAGreatSelectionOfPro {
+  line-height: 26px;
+}
+.offerAGreatSelectionOfProParent,
+.tailormadeSolutionParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.offerAGreatSelectionOfProParent {
+  gap: var(--gap-7xs);
+  font-size: var(--p11-size);
+}
+.tailormadeSolutionParent {
+  gap: var(--gap-sm);
+}
+.explore,
+.fullFledgedAndCompleteCont,
+.inexpensiveReasonable {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.fullFledgedAndCompleteCont {
+  line-height: 26px;
+  width: 669px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.explore {
+  font-weight: 600;
+}
+.frameGroup,
+.primaryButton1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.primaryButton1:hover{
+  background-color: #de08f1;
+}
+.primaryButton1 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-700);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--p21-size);
+}
+.frameGroup {
+  flex-direction: column;
+  gap: var(--gap-2xl);
+}
+.frameChild {
+  position: relative;
+  width: 624px;
+  height: 653px;
+  flex-shrink: 0;
+}
+.fold6,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frameParent {
+  align-items: center;
+  gap: var(--gap-7xl);
+}
+.fold6 {
+  position: absolute;
+  top: 6004px;
+  left: 0;
+  background: linear-gradient(
+    90.06deg,
+    rgba(255, 56, 56, 0.4),
+    #510d57 23.45%,
+    #ca234b
+  );
+  width: 100%;
+  overflow: hidden;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--h31-size);
+  color: var(--color-white);
+  font-family: var(--h41);
+}

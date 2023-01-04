@@ -1,0 +1,10 @@
+<svg width="12" height="13" viewBox="0 0 12 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="6" cy="6.5" r="6" fill="url(#paint0_linear_94_103)"/>
+<defs>
+<linearGradient id="paint0_linear_94_103" x1="-3.7625" y1="-10.0405" x2="12.8909" y2="-10.0222" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF3838" stop-opacity="0.4"/>
+<stop offset="0.234507" stop-color="#510D57"/>
+<stop offset="1" stop-color="#CA234B"/>
+</linearGradient>
+</defs>
+</svg>
